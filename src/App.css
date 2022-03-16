@@ -1,0 +1,34 @@
+body{
+  background-color: red;
+  text-align: center;
+  /* align-items: baseline; */
+}
+.main-container{
+  background-color: aqua;
+  width: 100%;
+  height: 500px;
+  /* display: flex; */
+
+}
+.st-cont{
+  background-color: blue;
+  color: tomato;
+  text-align: center;
+  align-items: center;
+  font: larger;
+  flex-wrap: wrap;
+}
+
+.sst-cont{
+  background-color: palegreen;
+  color: orange;
+  text-align: center;
+  align-items: center;
+  font: larger;
+  flex-wrap: wrap;
+}
+
+.main-second-container{
+  background-color: teal;
+}
+
